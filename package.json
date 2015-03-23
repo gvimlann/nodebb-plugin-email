@@ -1,0 +1,13 @@
+{
+    "name": "nodebb-plugin-email",
+    "version": "0.0.1",
+    "description": "NodeBB Plugin that allows the admin to check if the email qualified certain parameter.",
+    "keywords": [
+        "nodebb",
+        "email"
+    ],
+    "author": {
+        "name": "Vimlan.G",
+    },
+    "main": "plugin.js"
+}

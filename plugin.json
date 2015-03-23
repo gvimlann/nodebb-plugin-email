@@ -1,0 +1,13 @@
+{
+      "id": "nodebb-plugin-email"
+    , "name": "Email Validation"
+    , "description": "NodeBB Plugin that allows the admin to check if the email qualified certain parameter."
+    , "library": "./plugin.js"
+    , "hooks": [
+        {
+            "hook": "filter:register.check"
+            , "method": "parse"
+            , "callbacked": true
+        }
+    ]
+}
