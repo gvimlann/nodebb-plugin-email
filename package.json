@@ -9,5 +9,10 @@
     "author": {
         "name": "Vimlan.G"
     },
-    "main": "plugin.js"
+    "main": "plugin.js",
+    
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/gvimlan95/nodebb-plugin-email"
+  }
 }
